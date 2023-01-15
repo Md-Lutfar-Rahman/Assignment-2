@@ -234,7 +234,15 @@ p {
     height:auto;
 }
 
+.copywrite{
+    width:80%;
+    margin: 0 auto;
+    height:60px;
+    line-height: 4;
+    background-color: #888888;
+}
 .copywrite p{
+    margin-top: 50px;
     text-align: center;
 }
 
@@ -323,5 +331,7 @@ p {
     }
 .copywrite{
     margin-top:50px;
+    height: 60px;
+    line-height: 1.5;
 }
 }
